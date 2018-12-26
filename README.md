@@ -20,3 +20,8 @@ apt-get install sublime-text
 
 ```
 
+Adding atom
+```
+snap install atom --classic
+```
+
