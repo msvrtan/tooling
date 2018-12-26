@@ -36,10 +36,13 @@ Setting up gnome extensions
 apt-get install chrome-gnome-shell gnome-tweak-tool
 ```
 
+```
+apt-get install chrome-shell-pomodoro
+```
+
 Extensions to add
 
  - extensions
- - pomodoro
  - dash to dock
 
 
