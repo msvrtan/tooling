@@ -25,3 +25,9 @@ Adding atom
 snap install atom --classic
 ```
 
+Adding vlc
+```
+snap install vlc
+```
+
+
