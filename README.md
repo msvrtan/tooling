@@ -30,4 +30,16 @@ Adding vlc
 snap install vlc
 ```
 
+Setting up gnome extensions
+
+```
+apt-get install chrome-gnome-shell gnome-tweak-tool
+```
+
+Extensions to add
+
+ - extensions
+ - pomodoro
+ - dash to dock
+
 
