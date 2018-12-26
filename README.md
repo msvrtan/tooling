@@ -7,7 +7,7 @@
 ```
 sudo -s
 
-apt-get install git
+apt-get install git terminator
 ```
 
 
