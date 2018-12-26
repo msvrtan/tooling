@@ -34,6 +34,7 @@ Setting up gnome extensions
 
 ```
 apt-get install chrome-gnome-shell gnome-tweak-tool
+
 ```
 
 ```
@@ -45,6 +46,26 @@ Extensions to add
  - extensions
  - dash to dock
  - AlternateTab
+ - TopIcons Plus 
+ - Sound Input & Output Device Chooser
+ - Clipboard Indicator
+ - Applications Menu
+ - Coverflow Alt-Tab
+ - Disconnect Wifi 
+ - Drop Down Terminal
+ - Frippery Move Clock 
+ - NetSpeed 
+ - Refresh Wifi Connections
+ - Suspend and Lock Button 
+ - System Monitor (sudo apt install gir1.2-gtop-2.0 libgtop2-dev)
+ - system-monitor
+ - Screenshot Tool
+ - Volume Mixer 
+ - Status Area Horizontal Spacing 
+ - User Themes (sudo apt-get install gnome-shell-extensions)
+
+Look into
+ - taskbar
 
 
 Setting up docker (https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
