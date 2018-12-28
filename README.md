@@ -7,7 +7,7 @@
 ```
 sudo -s
 
-apt-get install git terminator git-cola
+apt-get install git terminator git-cola dstat
 ```
 
 
