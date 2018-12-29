@@ -30,6 +30,11 @@ Adding vlc
 snap install vlc
 ```
 
+Adding hub (https://github.com/github/hub/releases)
+```
+https://github.com/github/hub/releases/download/v2.7.0/hub-linux-amd64-2.7.0.tgz
+```
+
 Setting up gnome extensions
 
 ```
