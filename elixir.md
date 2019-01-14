@@ -18,6 +18,16 @@ Connect to database
 psql -h cadera_db -U postgres cadera_dev
 ```
 
+Show tables
+```
+\dt
+```
+
+Toggle expanded view (show each record as rows of data)
+```
+\x
+```
+
 Describe table in PSQL
 ```
 \d+ conferences;
